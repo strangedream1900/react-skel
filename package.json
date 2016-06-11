@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/strangedream1900/react-skel#readme",
   "dependencies": {
+    "babel-preset-react": "^6.5.0",
     "babelify": "^7.3.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
